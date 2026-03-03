@@ -2,7 +2,7 @@ Gerador de Código CSS com IA ⚡
 
 - OBS: para funcionar no seu, vc tem que entrar na "https://groq.com/", fazer sua conta, criar "Chave de API"
 colocar a chave de acesso no script.js onde esta escrito: "SUA_CHAVE_AQUI"
-irá funcionar local, perfeitamente
+irá funcionar localmente.
 
 Este é um projeto web que gera código HTML e CSS automaticamente a partir de uma descrição em texto.
 Basta digitar o que você quer (por exemplo: "bola azul quicando") e o sistema cria o código e mostra o resultado em tempo real.
